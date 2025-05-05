@@ -1,6 +1,6 @@
 column_aliases = {
     "Academic Level": ["academic level", "level", "education level"],
-    "Sex": ["sex", "gender"],
+    "Sex": ["sex", "gender", "se at birth"],
     "Disability": ["disability", "disability status"],
     "Major": ["major", "program", "field of study"],
     "Destination Country": ["destination", "destination country", "host country"],
